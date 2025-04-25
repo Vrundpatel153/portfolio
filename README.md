@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-My Name - [@Mytwitter](https://twitter.com/VrundPatel1535)
+Vrund Patel - [@Mytwitter](https://twitter.com/VrundPatel1535)
 
 Project Link: [https://github.com/Vrundpatel153/portfolio](https://github.com/Vrundpatel153/portfolio) 
